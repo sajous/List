@@ -19,3 +19,20 @@ background: white;
 border: none;
 font-size : 20px;
 `
+
+export const Table = styled.div`
+
+
+    ul{
+        margin-top : 20px;
+    }
+
+     li{
+        background: #e3e3e3;
+        box-shadow: 1px 1px 5px 1px;
+        margin: 5px 20px 2px -10px;
+        padding : 20px 0px;
+        list-style: none;
+        border-radius: 15px;
+    }
+`
